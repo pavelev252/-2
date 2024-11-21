@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea95d28-2d62-4073-ac36-c3cfe458df84" name="Changes" comment="21.11.24 создание репо">
-      <change afterPath="$PROJECT_DIR$/module_2_2.py" afterDir="false" />
+    <list default="true" id="4ea95d28-2d62-4073-ac36-c3cfe458df84" name="Changes" comment="21.11.24 Проверка равенства нескольких значений">
+      <change afterPath="$PROJECT_DIR$/modle_2_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -37,6 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Debug",
+    "Python.modle2_3.executor": "Run",
+    "Python.modle_2_3.executor": "Run",
     "Python.module_2_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,12 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732195364386</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="21.11.24 Проверка равенства нескольких значений">
+      <option name="closed" value="true" />
+      <created>1732207009799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732207009799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="21.11.24 создание репо" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.11.24 создание репо" />
+    <MESSAGE value="21.11.24 Проверка равенства нескольких значений" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.11.24 Проверка равенства нескольких значений" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
